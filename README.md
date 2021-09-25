@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Olafcio1
 - 👀 I’m interested in Minecraft, Virtual Machines, Bash
-- My OS is Windows 10, but I will probably install Linux Pop-OS as my second system, but im not sure (I have 2 Windows 10 because one is cracked, but i recovered this cracked Windows 10 clicking not this button on machine restart)

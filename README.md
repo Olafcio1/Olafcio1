@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Olafcio1
-- 👀 I’m interested in Minecraft, Virtual Machines, Bash
+- 👀 I like Python and JavaScript, but I also use (not the worst but ok) PHP and Java. Most of them are for the web - the daily thing I do.
 - 😮 My website: https://olafcio1.github.io

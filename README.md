@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Olafcio1
-- 👀 I like Python and JavaScript, but I also use (not the worst but ok) PHP and Java. Most of them are for the web - the daily thing I do.
+- 👀 I use python, js, php, java, and frontend shit(html,css)
+- 😊 I FUCKING HATE KOTLIN
 - 😮 My website: https://olafcio1.github.io

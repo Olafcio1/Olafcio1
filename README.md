@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olafcio1
 - 👀 I use python, js, php, java, and frontend stuf(html,css)
-- 😮 Almost forgor Skript 💀
+- 😮 Fully forgor Skript
 - 😊 I FUCKING HATE KOTLIN
 - 😮 My website: https://olafcio1.github.io
 

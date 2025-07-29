@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Olafcio1
 - 👀 Experienced in Python, JavaScript (standard website stack), PHP
 - 💡 Learning Java (kind of)
+- 🎮 Playing Minecraft
 - 😮 My website: https://olafcio1.github.io
 
 <a href="https://modrinth.com/user/Olafcio1"><img src="https://img.shields.io/badge/Olafcio1-My%20modrinth?style=for-the-badge&logo=modrinth&logoColor=%23126867&labelColor=%2312af67&color=%23126867"></a>

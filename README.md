@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olafcio1
-- 👀 Experienced in Python, JavaScript (whole website stack), PHP
+- 👀 Experienced in Python, JavaScript (standard website stack), PHP
 - 🤔 Learning Java (kind of)
 - 😮 My website: https://olafcio1.github.io
 

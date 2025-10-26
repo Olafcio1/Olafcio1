@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olafcio1
-- 👀 Experienced in Python, JavaScript (standard website stack), PHP
-- 💡 Learning Java (kind of)
+- 👀 Experienced in Python, natie front-end JavaScript, TypeScript, PHP
+- 💡 Learning Java, Go
 - 🎮 Playing Minecraft
 
 My website is currently unavailable. I'll update this when I remake it.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olafcio1
-- 👀 Experienced in Python, natie front-end JavaScript, TypeScript, PHP
+- 👀 Experienced in Python, native front-end JavaScript, TypeScript, PHP
 - 💡 Learning Java, Go
 - 🎮 Playing Minecraft
 

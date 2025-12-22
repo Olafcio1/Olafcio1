@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @Olafcio1
-- 👀 Experienced in Python, native front-end JavaScript, TypeScript, PHP
-- 💡 Learning Java, Go
+- 👀 Using:
+  * Python (~3 years)
+  * JavaScript (~4 years)
+  * TypeScript (~1.5 years)
+  * PHP (~3 years)
+  * Java (~3.5 years)
+  * Go (~.75 of a year)
 - 🎮 Playing Minecraft
 
 My website is currently unavailable. I'll update this when I remake it.

@@ -8,6 +8,7 @@
   * Go (~.75 of a year)
 - 🎮 Playing Minecraft
 
+I hate Mojang. They're the worst company ever.<br/>
 My website is currently unavailable. I'll update this when I remake it.
 
 <a href="https://modrinth.com/user/Olafcio1"><img src="https://img.shields.io/badge/Olafcio1-My%20modrinth?style=for-the-badge&logo=modrinth&logoColor=%23126867&labelColor=%2312af67&color=%23126867"></a>

@@ -1,14 +1,8 @@
 - 👋 Hi, I’m @Olafcio1
-- 👀 Using:
-  * Python (~3 years)
-  * JavaScript (~4 years)
-  * TypeScript (~1.5 years)
-  * PHP (~3 years)
-  * Java (~3.5 years)
-  * Go (~.75 of a year)
+- ☕ Currently Java-ing
 - 🎮 Playing Minecraft
 
-I hate Microsoft. They're the worst company ever.<br/>
+I use very many programming languages, but right now I'm keen on things related to Minecraft JE.<br/>
 My website is currently unavailable. I'll update this when I remake it.
 
 <a href="https://modrinth.com/user/Olafcio1"><img src="https://img.shields.io/badge/Olafcio1-My%20modrinth?style=for-the-badge&logo=modrinth&logoColor=%23126867&labelColor=%2312af67&color=%23126867"></a>

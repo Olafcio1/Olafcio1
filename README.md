@@ -10,3 +10,7 @@ My website is currently unavailable. I'll update this when I remake it.
 
 <!-- <a href="https://discord.gg/4dmqcVfQjA"><img src="https://img.shields.io/badge/olafciooox-My%20Discord?style=for-the-badge&logo=discord&logoColor=%23ffffff&labelColor=%234290bb&color=%233280aa"></a> -->
 <!-- Well, ion have the account anymore. Discord suspended it. Then, after I registered a new one, it got "locked out" after around 3 weeks. You know I am not coming back to Discord with this experience -->
+
+> [!CAUTION]
+> If you are an "AI Engineer", **DNI - Do Not Interact**.<br/>
+> I will block every single person using AI for important parts of their workflow from my profiles.

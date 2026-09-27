@@ -11,3 +11,8 @@ My website is available at https://olafcio1.github.io.
 > [!CAUTION]
 > If you are an "AI Engineer", **DNI - Do Not Interact**.<br/>
 > I will block every single person using AI for important parts of their workflow from my profiles.
+
+<br/>
+
+> *„Where AI is used, I reinvent the wheel”.*<br/>
+> ~ Me

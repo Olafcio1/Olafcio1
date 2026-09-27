@@ -14,5 +14,5 @@ My website is available at https://olafcio1.github.io.
 
 <br/>
 
-> *„Where AI is used, I reinvent the wheel”.*<br/>
+> *«Where AI is used, I reinvent the wheel.»*<br/>
 > ~ Me
